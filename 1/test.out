@@ -1,0 +1,52 @@
+Kapacitet (default): 4
+---- k1 nakon dodavanja ----
+Mlijeko | barkod: 111 | kom: 7 | cijena: 1.5
+Kruh | barkod: 222 | kom: 3 | cijena: 2
+Ukupno artikala: 2
+Iznos: 16.5
+----------------------
+---- k1 nakon realokacije ----
+Mlijeko | barkod: 111 | kom: 7 | cijena: 1.5
+Kruh | barkod: 222 | kom: 3 | cijena: 2
+Jabuka | barkod: 333 | kom: 1 | cijena: 1
+Banana | barkod: 444 | kom: 1 | cijena: 1.2
+Sok | barkod: 555 | kom: 1 | cijena: 2.5
+Ukupno artikala: 5
+Iznos: 21.2
+----------------------
+---- k2 (kopija) ----
+Mlijeko | barkod: 111 | kom: 7 | cijena: 1.5
+Kruh | barkod: 222 | kom: 3 | cijena: 2
+Jabuka | barkod: 333 | kom: 1 | cijena: 1
+Banana | barkod: 444 | kom: 1 | cijena: 1.2
+Sok | barkod: 555 | kom: 1 | cijena: 2.5
+Ukupno artikala: 5
+Iznos: 21.2
+----------------------
+Nakon promjene k1:
+k1.ukupno = 6
+k2.ukupno = 5
+Ukloni 111 (ocekuje 1): 1
+Ukloni 999 (ocekuje 0): 0
+---- k1 nakon uklanjanja ----
+Kruh | barkod: 222 | kom: 3 | cijena: 2
+Jabuka | barkod: 333 | kom: 1 | cijena: 1
+Banana | barkod: 444 | kom: 1 | cijena: 1.2
+Sok | barkod: 555 | kom: 1 | cijena: 2.5
+Cokolada | barkod: 666 | kom: 2 | cijena: 3
+Ukupno artikala: 5
+Iznos: 16.7
+----------------------
+Iznos prazne kosarice (0): 0
+k4.ukupno (0): 0
+Dodano 0 komada (provjeri da se nista ne pokvari)
+---- k1 final ----
+Kruh | barkod: 222 | kom: 3 | cijena: 2
+Jabuka | barkod: 333 | kom: 1 | cijena: 1
+Banana | barkod: 444 | kom: 1 | cijena: 1.2
+Sok | barkod: 555 | kom: 1 | cijena: 2.5
+Cokolada | barkod: 666 | kom: 2 | cijena: 3
+Test | barkod: 777 | kom: 0 | cijena: 5
+Ukupno artikala: 6
+Iznos: 16.7
+----------------------
