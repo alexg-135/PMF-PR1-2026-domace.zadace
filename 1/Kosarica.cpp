@@ -4,6 +4,8 @@
 Artikl::Artikl()
 {
     cijena = 0;
+    naziv = "nepoznat";
+    barkod = "nepoznat";
 }
 
 Artikl::Artikl(std::string naziv, std::string barkod, double cijena)

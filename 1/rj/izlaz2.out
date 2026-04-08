@@ -1,0 +1,19 @@
+---Kosarica prije dodavanja elemenata---
+Kapacitet: 3
+Ukupno: 0
+Svi artikli u kosarici:
+---Nakon dodavanja 3 razlicita artikla---
+Kapacitet: 3
+Ukupno: 3
+Svi artikli u kosarici:
+	prvi, 123, 2 EUR (2 kom)
+	drugi, 234, 3.1 EUR (1 kom)
+	prvi, 125, 4.2 EUR (5 kom)
+---Nakon dodavanja jos jednog---
+Kapacitet: 6
+Ukupno: 4
+Svi artikli u kosarici:
+	prvi, 123, 2 EUR (2 kom)
+	drugi, 234, 3.1 EUR (1 kom)
+	prvi, 125, 4.2 EUR (5 kom)
+	drugi, 235, 3.1 EUR (1 kom)

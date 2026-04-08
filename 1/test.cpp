@@ -22,6 +22,7 @@ int main() {
 
     // 🔹 1. Test default konstruktor
     Kosarica k1;
+    
     cout << "Kapacitet (default): " << k1.kapacitet << endl;
 
     // 🔹 2. Dodavanje artikala

@@ -1,0 +1,20 @@
+---Podaci o originalnoj kosarici---
+Kapacitet: 10
+Ukupno: 2
+Svi artikli u kosarici:
+	jedan, 123, 2.05 EUR (5 kom)
+	drugi, 1234, 100 EUR (6 kom)
+---Podaci o kopiji nakon dodavanja artikla---
+Kapacitet: 10
+Ukupno: 3
+Svi artikli u kosarici:
+	jedan, 123, 2.05 EUR (5 kom)
+	drugi, 1234, 100 EUR (6 kom)
+	treci, 12, 1.123 EUR (3 kom)
+Ukupna cijena kopije: 613.619 EUR
+---Originalna kosarica nakon poziva funkcije---
+Kapacitet: 10
+Ukupno: 2
+Svi artikli u kosarici:
+	jedan, 123, 2.05 EUR (5 kom)
+	drugi, 1234, 100 EUR (6 kom)

@@ -1,0 +1,20 @@
+---Nakon dodavanja 3 razlicita artikla---
+Kapacitet: 4
+Ukupno: 3
+Svi artikli u kosarici:
+	kruh, 132, 2.4 EUR (3 kom)
+	salata, abc, 0.99 EUR (4 kom)
+	nepoznat, nepoznat, 0 EUR (2 kom)
+---Nakon uklanjanja nepostojeceg artikla---
+Kapacitet: 4
+Ukupno: 3
+Svi artikli u kosarici:
+	kruh, 132, 2.4 EUR (3 kom)
+	salata, abc, 0.99 EUR (4 kom)
+	nepoznat, nepoznat, 0 EUR (2 kom)
+---Nakon uklanjanja postojeceg artikla---
+Kapacitet: 4
+Ukupno: 2
+Svi artikli u kosarici:
+	salata, abc, 0.99 EUR (4 kom)
+	nepoznat, nepoznat, 0 EUR (2 kom)
