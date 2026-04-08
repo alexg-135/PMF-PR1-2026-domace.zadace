@@ -10,6 +10,8 @@ Napišite implementaciju ```Kosarica.cpp``` prema zadatku koji se nalazi u datot
 
 Ispravnost svog rješenja provjerite povezivanjem s primjerom glavnog programa zapisanim u datoteci ```main.cpp``` i usporedbom s točnim rješenjem koje se nalazi u datoteci ```correct.out```.
 
+Rješenje je u datoteci: [```Kosarica.cpp```](./1/Kosarica.cpp)
+
 
 
 <!--## Riješenost:
