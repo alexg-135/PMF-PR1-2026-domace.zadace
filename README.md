@@ -20,6 +20,8 @@ Ispravnost svog rješenja provjerite povezivanjem s primjerom glavnog programa z
 
 Rješenje je u datoteci [```social_network.cpp```](./2/social_network.cpp)
 
+## 3. Domaća zadaća
+
 <!--## Riješenost:
 
  | Zadaća             | Točnost | Bodovi | Bodovi |

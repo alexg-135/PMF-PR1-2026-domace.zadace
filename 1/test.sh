@@ -1,6 +1,6 @@
 # ! /bin/bash
 
-g++ main.cpp social_network.cpp -o main;
+g++ main.cpp Kosarica.cpp -o main;
 ./main > main.out;
 cat main.out;
 echo;
