@@ -1,3 +1,11 @@
+/**
+ * @file social_network.cpp
+ * @brief Implementacija strukture SocialNetwork
+ * 
+ * @author Alexander Gustovarac
+ * @date 24-04-2026
+ */
+
 #include<string>
 #include<map>
 #include<set>
@@ -6,22 +14,6 @@
 
 #include "social_network.h"
 
-// struct SocialNetwork{
-//     std::set<std::string> users;
-//     std::map<std::string, std::set<std::string>> following; 
-
-//     SocialNetwork();
-//     SocialNetwork(std::set<std::string> _users);
-
-//     bool addUser(std::string user);
-//     void follow(std::string user1, std::string user2);
-//     void unfollow(std::string user1, std::string user2);
-//     bool removeUser(std::string user);
-//     std::set<std::string> getFollowers(std::string user);
-//     std::set<std::string> recommend(std::string user);
-//     std::vector<std::string> getInfluencers();
-//     std::set<std::pair<std::string, std::string>> getMutualPairs();
-// };
 /**
  * @brief Defultni konstruktor za SocialNetwork. 
  * Inicijalizuje prazan set od stringova i map
@@ -223,7 +215,7 @@ std::set<std::string> SocialNetwork::recommend(std::string user){
 
 bool compare_influencers(const std::pair<std::string, int>& a, const std::pair<std::string, int>& b)
 {
-    return a.second < b.second;
+    return a.second > b.second;
 }
 
 /**
@@ -274,7 +266,7 @@ std::vector<std::string> SocialNetwork::getInfluencers()
         influencers.push_back(user.first);
     }
 
-    return influencers; // TODO: implement this function
+    return influencers;
 }
 
 /**
@@ -299,5 +291,5 @@ std::set<std::pair<std::string, std::string>> SocialNetwork::getMutualPairs(){
         }
     }
 
-    return pairs; // TODO: implement this function
+    return pairs;
 }

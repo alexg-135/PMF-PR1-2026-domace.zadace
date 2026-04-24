@@ -106,6 +106,30 @@ void testExampleFromPDF() {
     assert(pairs.count({"Euler", "Gauss"}) == 1);
 }
 
+void testCmpFjn()
+{
+    SocialNetwork s({"A", "B", "C", "D", "E","G", "F"});
+
+    s.follow("B", "A");
+    s.follow("C", "A");
+    s.follow("D", "A");
+    s.follow("E", "A");
+
+    s.follow("B", "F");
+    s.follow("C", "F");
+    s.follow("D", "F");
+    s.follow("E", "F");
+    s.follow("G", "F");
+
+    for (std::string user : s.getInfluencers())
+    {
+        std::cout << user << ", ";
+    }
+    
+
+    std::cout << std::endl;
+}
+
 int main() {
     testAddRemove();
     testFollowUnfollow();
@@ -114,6 +138,7 @@ int main() {
     testInfluencers();
     testMutual();
     testExampleFromPDF();
+    testCmpFjn();
 
     std::cout << "Svi testovi prosli!\n";
     return 0;
