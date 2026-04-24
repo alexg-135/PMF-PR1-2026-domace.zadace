@@ -1,0 +1,24 @@
+Lebesgue vec je u drustvenoj mrezi!
+
+Korisnici drustvene mreze su Euler, Gauss, Godel, Lebesgue, Newton
+Korisnik Euler prati korisnike Gauss, Godel, Lebesgue
+Korisnik Gauss prati korisnike Euler, Godel
+Korisnik Godel ne prati nikog
+Korisnik Lebesgue prati korisnike Godel
+Korisnik Newton prati korisnike Godel, Lebesgue
+-------------------------------------------------
+
+Godelovi pratitellji su Euler, Gauss, Lebesgue, Newton
+
+Gaussu je predlozen korisnik Lebesgue
+
+Korisnici drustvene mreze su Euler, Gauss, Godel, Lebesgue
+Korisnik Euler prati korisnike Gauss, Godel, Lebesgue
+Korisnik Gauss prati korisnike Euler, Godel
+Korisnik Godel ne prati nikog
+Korisnik Lebesgue prati korisnike Godel
+-------------------------------------------------
+
+Jedini influencer je Godel
+
+Parovi korisnika koji se medusobno prate su (Euler, Gauss)
