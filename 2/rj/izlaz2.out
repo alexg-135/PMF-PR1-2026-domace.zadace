@@ -1,0 +1,37 @@
+Drustvena mreza je prazna!
+
+Leibniz je dodan u drustvenu mrezu
+Leibniz je vec u drustvenoj mrezi
+Korisnici drustvene mreze su Galois, Leibniz, Turing
+Korisnik Galois ne prati nikog
+Korisnik Leibniz ne prati nikog
+Korisnik Turing ne prati nikog
+-------------------------------------------------
+
+Korisnici drustvene mreze su Banach, Bernoulli, Cauchy, Fourier, Hilbert, Lagrange
+Korisnik Banach ne prati nikog
+Korisnik Bernoulli ne prati nikog
+Korisnik Cauchy ne prati nikog
+Korisnik Fourier ne prati nikog
+Korisnik Hilbert ne prati nikog
+Korisnik Lagrange ne prati nikog
+-------------------------------------------------
+
+Korisnici drustvene mreze su Banach, Bernoulli, Cauchy, Fourier, Hilbert, Lagrange
+Korisnik Banach ne prati nikog
+Korisnik Bernoulli prati korisnike Lagrange
+Korisnik Cauchy ne prati nikog
+Korisnik Fourier prati korisnike Hilbert
+Korisnik Hilbert prati korisnike Banach
+Korisnik Lagrange prati korisnike Bernoulli
+-------------------------------------------------
+
+Korisnici drustvene mreze su Banach, Bernoulli, Cauchy, Fourier, Hilbert, Lagrange
+Korisnik Banach ne prati nikog
+Korisnik Bernoulli prati korisnike Lagrange
+Korisnik Cauchy ne prati nikog
+Korisnik Fourier prati korisnike Hilbert
+Korisnik Hilbert ne prati nikog
+Korisnik Lagrange ne prati nikog
+-------------------------------------------------
+

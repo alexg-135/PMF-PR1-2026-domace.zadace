@@ -1,0 +1,33 @@
+Korisnici drustvene mreze su Fermat, Goldbach, Poincare, Ramanujan, Riemann, Stokes
+Korisnik Fermat ne prati nikog
+Korisnik Goldbach ne prati nikog
+Korisnik Poincare ne prati nikog
+Korisnik Ramanujan ne prati nikog
+Korisnik Riemann ne prati nikog
+Korisnik Stokes ne prati nikog
+-------------------------------------------------
+
+Cantora nema u drustvenoj mrezi
+Stokes je izbrisan iz drustvene mreze
+Korisnici drustvene mreze su Fermat, Goldbach, Poincare, Ramanujan, Riemann
+Korisnik Fermat ne prati nikog
+Korisnik Goldbach ne prati nikog
+Korisnik Poincare ne prati nikog
+Korisnik Ramanujan ne prati nikog
+Korisnik Riemann ne prati nikog
+-------------------------------------------------
+
+Korisnici drustvene mreze su Fermat, Goldbach, Poincare, Ramanujan, Riemann
+Korisnik Fermat prati korisnike Goldbach, Poincare, Ramanujan, Riemann
+Korisnik Goldbach prati korisnike Fermat, Poincare, Ramanujan, Riemann
+Korisnik Poincare prati korisnike Fermat, Goldbach, Ramanujan, Riemann
+Korisnik Ramanujan prati korisnike Fermat, Goldbach, Poincare, Riemann
+Korisnik Riemann prati korisnike Fermat, Goldbach, Poincare, Ramanujan
+-------------------------------------------------
+
+Korisnici drustvene mreze su Fermat, Goldbach, Poincare
+Korisnik Fermat prati korisnike Goldbach, Poincare
+Korisnik Goldbach prati korisnike Fermat, Poincare
+Korisnik Poincare prati korisnike Fermat, Goldbach
+-------------------------------------------------
+
