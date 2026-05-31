@@ -1,0 +1,12 @@
+# ! /bin/bash
+
+g++ main.cpp turnir.cpp -o main;
+./main > main.out;
+cat main.out;
+echo;
+echo "--------------------------------------------------";
+echo;
+cat correct.out;
+echo "--------------------------------------------------";
+diff main.out correct.out
+echo "--------------------------------------------------";

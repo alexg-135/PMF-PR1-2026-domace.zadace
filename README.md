@@ -22,6 +22,15 @@ Rješenje je u datoteci [```social_network.cpp```](./2/social_network.cpp)
 
 ## 3. Domaća zadaća
 
+Napišite implementaciju ```turnir.cpp``` prema zadatku koji se nalazi u datoteci [RP1-DZ3-2526.pdf](./3/RP1-DZ3-2526.pdf).
+
+Ispravnost svog rješenja provjerite povezivanjem s primjerom glavnog programa zapisanim u datoteci ```main.cpp``` i usporedbom s točnim rješenjem koje se nalazi u datoteci ```correct.out```.
+
+Rješenje je u datoteci [```turnir.cpp```](./3/turnir.cpp)
+
+## 4. Domaća zadaća
+
+
 <!--## Riješenost:
 
  | Zadaća             | Točnost | Bodovi | Bodovi |
