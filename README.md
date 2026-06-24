@@ -30,6 +30,11 @@ Rješenje je u datoteci [```turnir.cpp```](./3/turnir.cpp)
 
 ## 4. Domaća zadaća
 
+Napišite implementaciju ```Jelovnik.cpp``` prema zadatku koji se nalazi u datoteci [RP1-DZ4-2526.pdf](./4/RP1-DZ4-2526.pdf).
+
+Ispravnost svog rješenja provjerite povezivanjem s primjerom glavnog programa zapisanim u datoteci ```main.cpp``` i usporedbom s točnim rješenjem koje se nalazi u datoteci ```correct.out```.
+
+Rješenje je u datoteci [```Jelovnik.cpp```](./4/Jelovnik.cpp)
 
 <!--## Riješenost:
 
